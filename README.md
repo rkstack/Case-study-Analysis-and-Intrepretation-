@@ -3,3 +3,4 @@
 
 
 Following PDF file explains the code and interpretation.
+[PDF Case strudy part II.pdf](https://github.com/rkstack/Case-study-Analysis-and-Intrepretation-/files/7189509/PDF.Case.strudy.part.II.pdf)
